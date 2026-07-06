@@ -1,8 +1,8 @@
-BOT_TOKEN = '1234567890:qwertyuiopasdfghjklzxcvbnmqwertyuio'
-ADMINS = [6802676832, 870922681]
+BOT_TOKEN = '8711917801:AAFhKoWko6Oh0WliLzjHjVtBuV4JCd7jlOU'
+ADMINS = [1894109505]
 
-API_ID = 12345678
-API_HASH = "qwertyuiopasdfghjklzxcvbnmqwerty"
+API_ID = 30860267
+API_HASH = "784434cdfb40dfd546b4ba2d29006cba"
 
 # actualy 2025-01-16
 GIFT_IDS = [ 
